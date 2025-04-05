@@ -52,7 +52,7 @@ No need for whatsapp mod!!!
     rm -rf state
     ```
     ```
-    note index.js
+    node index.js
     ```
 ### Step 2: Relink Bot (If Necessary)
 
