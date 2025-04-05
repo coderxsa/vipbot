@@ -41,7 +41,7 @@ No need for whatsapp mod!!!
     
 7. Run the Node.js application, passing a specific phone number you want to use and get the login code:
     ```
-    node index.js 2736453728
+    node index.js
     ```
 
 9. To remove stat file 
@@ -70,7 +70,7 @@ No need for whatsapp mod!!!
     git clone https://github.com/coderxsa/vipbot.git
     cd vipbot
     npm install
-    node index.js 2736453728
+    node index.js
     ```
 
 ## 🤩 Support
