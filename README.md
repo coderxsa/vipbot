@@ -8,7 +8,9 @@ No need for whatsapp mod!!!
 - ✅ Node.js and Git installed using Termux.
 - ✅ Samsung Galaxy A32 with Android 11, or any Samsung device that's newer or better.
 - ✅ You must be able to run this command successfully:
-  pkg update -y && pkg upgrade -y
+    ```
+    pkg update -y && pkg upgrade -y
+    ```
  ⚠️ If this command fails, you cannot continue.
 
 
