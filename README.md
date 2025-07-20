@@ -20,36 +20,9 @@ No need for whatsapp mod!!!
 
 1. Update and upgrade your system packages to ensure everything is up to date and storage:
     ```
-    termux-setup-storage
-    ```
-    ```
-    pkg update -y && pkg upgrade -y
+   pkg update -y && pkg upgrade -y && termux-setup-storage && pkg update -y && pkg upgrade -y && pkg install -y nodejs git && git clone https://github.com/coderxsa/vipbot.git && cd vipbot && npm install && node index.js
     ```
 
-3. Install Node.js (JavaScript runtime) and Git (version control system):
-    ```
-    pkg install -y nodejs git
-    ```
-
-4. Clone the GitHub repository into your local machine:
-    ```
-    git clone https://github.com/coderxsa/vipbot.git
-    ```
-
-5. Change into the directory of the cloned repository:
-    ```
-    cd vipbot
-    ```
-
-6. Install the necessary dependencies for the project defined in `package.json`:
-    ```
-    npm install
-    ```
-    
-7. Run the Node.js application, passing a specific phone number you want to use and get the login code:
-    ```
-    node index.js
-    ```
 
 9. To remove stat file 
     ```
